@@ -1,0 +1,9 @@
+{
+  "keyOfObject": {
+    "k-1": "v-1",
+    "k-i": 0,
+    "k-null": null,
+    "k-bool": true,
+    "k-list": ["value",1]
+  }
+}

@@ -5,6 +5,7 @@ description = ""
 authors = ["fluent-qa <fluent-qa@163.com>"]
 packages = [
     { from = "src", include = "pyqa_30min" }
+    { from = "src", include = "poster" }
 ]
 [options]
 package_dirt="src"
