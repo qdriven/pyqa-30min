@@ -65,6 +65,7 @@
 ## JSON/DICT的DIFF的办法
 
 - deepdiff: 无脑比较
+- 手工写比较器: 递归比较，核心问题递归在什么地方退出?
 
 ## References
 
